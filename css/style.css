@@ -33,6 +33,7 @@ header{
     justify-content: center;
     align-items: center;
     margin-bottom: 9rem;
+    background: #000000;
 }
 /* Hero background */
 .hero-wrapper{
